@@ -99,7 +99,7 @@
     ]
   },
 
-    {
+  {
     "id": "task-006",
     "title": "Implement 'Export to CSV' functionality",
     "description": "A new button needs to be added to the dashboard, likely near the filter controls. When a user clicks this button, the application should generate and download a CSV file containing the tasks currently displayed in the list.The CSV file should include the following columns: Task ID, Title, Status, Priority, and Assignee Name.",
@@ -116,6 +116,46 @@
         "startTime": "2025-06-15T09:00:00Z",
         "endTime": "2025-06-15T09:00:00Z",
         "durationMs": 800000
+      }
+    ]
+  },
+  {
+    "id": "task-007",
+    "title": "Implement 'Export to CSV' functionality",
+    "description": "Add a button to the dashboard to export the current task list as a CSV file.",
+    "priority": "Medium",
+    "status": "Open",
+    "assigneeId": "dev1",
+    "reporterId": "dev1",
+    "createdAt": "2025-06-15T10:00:00Z",
+    "updatedAt": "2025-06-15T10:00:00Z",
+    "closedAt": null,
+    "timeLogs": [
+      {
+        "userId": "dev1",
+        "startTime": "2025-06-15T09:00:00Z",
+        "endTime": "2025-06-15T09:00:00Z",
+        "durationMs": 1200000
+      }
+    ]
+  },
+  {
+    "id": "task-008",
+    "title": "Add Button for CSV functionality",
+    "description": "the current task list as a CSV file.",
+    "priority": "Medium",
+    "status": "Open",
+    "assigneeId": "dev1",
+    "reporterId": "dev1",
+    "createdAt": "2025-06-15T10:00:00Z",
+    "updatedAt": "2025-06-15T10:00:00Z",
+    "closedAt": null,
+    "timeLogs": [
+      {
+        "userId": "dev1",
+        "startTime": "2025-06-15T09:00:00Z",
+        "endTime": "2025-06-15T09:00:00Z",
+        "durationMs": 2200000
       }
     ]
   }
