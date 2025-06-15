@@ -6,7 +6,7 @@ This project is a comprehensive bug and task tracker interface built to fulfill 
 
 ### **Live Demo & Video**
 
-*   **Working Demo Link:** [https://fealtyx-tracker.vercel.app/](https://your-deployment-link.vercel.app/)  
+*   **Working Demo Link:** [https://fealtyx-tracker.vercel.app/login](https://your-deployment-link.vercel.app/)  
 *   **Video Recording Link:** [https://drive.google.com/file/d/1pSbSLOiuLdS0nFpOPAPqcc3ckW_3S1QA/view?usp=sharing](https://drive.google.com/file/d/1pSbSLOiuLdS0nFpOPAPqcc3ckW_3S1QA/view?usp=sharing)  
 
 ---
