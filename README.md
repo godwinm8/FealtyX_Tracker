@@ -6,8 +6,8 @@ This project is a comprehensive bug and task tracker interface built to fulfill 
 
 ### **Live Demo & Video**
 
-*   **Working Demo Link:** [https://your-deployment-link.vercel.app/](https://your-deployment-link.vercel.app/)  <-- **UPDATE THIS**
-*   **Video Recording Link:** [https://www.loom.com/share/your-video-link](https://drive.google.com/file/d/1pSbSLOiuLdS0nFpOPAPqcc3ckW_3S1QA/view?usp=sharing)  
+*   **Working Demo Link:** [https://fealtyx-tracker.vercel.app/](https://your-deployment-link.vercel.app/)  
+*   **Video Recording Link:** [https://drive.google.com/file/d/1pSbSLOiuLdS0nFpOPAPqcc3ckW_3S1QA/view?usp=sharing](https://drive.google.com/file/d/1pSbSLOiuLdS0nFpOPAPqcc3ckW_3S1QA/view?usp=sharing)  
 
 ---
 
@@ -75,8 +75,8 @@ You can use the following credentials to log in and test the different roles:
     *   **Email:** `dev@fealtyx.com`
     *   **Password:** `password123`
 
-     *   **Email:** `dev2@fealtyx.com`
-     *   **Password:** `password123`
+    *   **Email:** `dev2@fealtyx.com`
+    *   **Password:** `password123`
 
 ---
 
