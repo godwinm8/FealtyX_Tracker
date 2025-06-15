@@ -1,0 +1,23 @@
+[
+  {
+    "id": "dev1",
+    "email": "dev@fealtyx.com",
+    "password": "password123",
+    "name": "Alex Doe",
+    "role": "Developer"
+  },
+  {
+    "id": "manager1",
+    "email": "manager@fealtyx.com",
+    "password": "password123",
+    "name": "Jane Smith",
+    "role": "Manager"
+  },
+  {
+    "id": "dev2",
+    "email": "dev2@fealtyx.com",
+    "password": "password123",
+    "name": "Sam Wilson",
+    "role": "Developer"
+  }
+]

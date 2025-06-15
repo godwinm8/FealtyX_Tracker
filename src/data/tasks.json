@@ -1,0 +1,101 @@
+[
+  {
+    "id": "task-001",
+    "title": "Fix login button styling on mobile",
+    "description": "The main login button is misaligned on screens smaller than 375px. It should be centered.",
+    "priority": "High",
+    "status": "In Progress",
+    "assigneeId": "dev1",
+    "reporterId": "manager1",
+    "createdAt": "2023-10-15T10:00:00Z",
+    "updatedAt": "2023-10-27T14:30:00Z",
+    "closedAt": null,
+    "timeLogs": [
+      {
+        "userId": "dev1",
+        "startTime": "2023-10-27T11:00:00Z",
+        "endTime": "2023-10-27T13:30:00Z",
+        "durationMs": 9000000
+      }
+    ]
+  },
+  {
+    "id": "task-002",
+    "title": "Implement user password reset flow",
+    "description": "Users need a way to reset their password via email. This involves creating a 'Forgot Password' link, a reset token system, and a new password entry form.",
+    "priority": "High",
+    "status": "Open",
+    "assigneeId": "dev2",
+    "reporterId": "manager1",
+    "createdAt": "2023-10-20T09:00:00Z",
+    "updatedAt": "2023-10-20T09:00:00Z",
+    "closedAt": null,
+    "timeLogs": []
+  },
+  {
+    "id": "task-003",
+    "title": "Dashboard chart is not updating",
+    "description": "The concurrent tasks chart on the manager's dashboard does not reflect newly created or closed tasks until the page is refreshed.",
+    "priority": "Medium",
+    "status": "Pending Approval",
+    "assigneeId": "dev1",
+    "reporterId": "dev1",
+    "createdAt": "2023-10-25T11:00:00Z",
+    "updatedAt": "2023-10-28T16:00:00Z",
+    "closedAt": null,
+    "timeLogs": [
+      {
+        "userId": "dev1",
+        "startTime": "2023-10-28T14:00:00Z",
+        "endTime": "2023-10-28T16:00:00Z",
+        "durationMs": 7200000
+      }
+    ]
+  },
+  {
+    "id": "task-004",
+    "title": "Update documentation for API v2",
+    "description": "The developer documentation needs to be updated to include the new endpoints and authentication methods for API v2.",
+    "priority": "Low",
+    "status": "Closed",
+    "assigneeId": "dev2",
+    "reporterId": "manager1",
+    "createdAt": "2023-09-28T15:00:00Z",
+    "updatedAt": "2023-10-05T12:00:00Z",
+    "closedAt": "2023-10-05T12:00:00Z",
+    "timeLogs": [
+      {
+        "userId": "dev2",
+        "startTime": "2023-10-02T10:00:00Z",
+        "endTime": "2023-10-02T12:00:00Z",
+        "durationMs": 7200000
+      },
+      {
+        "userId": "dev2",
+        "startTime": "2023-10-03T10:00:00Z",
+        "endTime": "2023-10-03T14:00:00Z",
+        "durationMs": 14400000
+      }
+    ]
+  },
+  {
+    "id": "task-005",
+    "title": "Typo in the website footer",
+    "description": "The copyright year in the footer says 2022. It should be updated to the current year.",
+    "priority": "Low",
+    "status": "Re-opened",
+    "assigneeId": "dev1",
+    "reporterId": "manager1",
+    "createdAt": "2023-10-01T10:00:00Z",
+    "updatedAt": "2023-10-29T10:00:00Z",
+    "closedAt": null,
+    "timeLogs": [
+      {
+        "userId": "dev1",
+        "startTime": "2023-10-02T09:00:00Z",
+        "endTime": "2023-10-02T09:15:00Z",
+        "durationMs": 900000
+      }
+    ]
+  }
+]
